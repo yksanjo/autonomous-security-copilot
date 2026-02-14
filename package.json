@@ -1,0 +1,33 @@
+{
+  "name": "autonomous-security-copilot",
+  "version": "1.0.0",
+  "description": "AI Red Team as a Service - Autonomous Security Copilot",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "scan": "node src/cli/index.js scan",
+    "attack": "node src/cli/index.js attack",
+    "correlate": "node src/cli/index.js correlate",
+    "remediate": "node src/cli/index.js remediate",
+    "ticket": "node src/cli/index.js ticket",
+    "learn": "node src/cli/index.js learn",
+    "run": "node src/cli/index.js run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "ai",
+    "red-team",
+    "automation",
+    "soar"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1",
+    "uuid": "^9.0.1"
+  }
+}
