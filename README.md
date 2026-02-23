@@ -1,5 +1,12 @@
 # autonomous-security-copilot
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/autonomous-security-copilot/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/autonomous-security-copilot/actions)
+![License](https://img.shields.io/github/license/yksanjo/autonomous-security-copilot)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/autonomous-security-copilot)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/autonomous-security-copilot)
+
 ## Detailed Description
 
 autonomous-security-copilot is maintained as an industry-grade software project with production-ready engineering practices.  
